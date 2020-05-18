@@ -11,7 +11,7 @@ https://docs.opencv.org/3.4/dc/d88/tutorial_traincascade.html
 
 ### In this code I managed to detect faces of some images 
 <img src="data_dir/index.png" alt="Output" width="800"/>
-<img src="data_dir/index.png" alt="Output" width="800"/>
+<img src="data_dir/index2.png" alt="Output" width="800"/>
 
 ## Thanks to the course "Python Project: pillow, tesseract, and opencv" Instructions which helped me a lot to understnad/build many things.
 #### *This course is part of the "Python 3 Programming Specialization" by University of Michigan.
